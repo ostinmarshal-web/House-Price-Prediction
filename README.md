@@ -186,6 +186,6 @@ Through this project, I gained practical experience in:
 
 B.Tech – Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 
-GitHub: Add your GitHub profile URL here
+GitHub: [Ostin Marshal](https://github.com/ostinmarshal-web)
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: [Ostin Marshal](https://www.linkedin.com/in/ostin-marshal-24973734b)
